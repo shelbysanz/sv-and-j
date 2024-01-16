@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"SV&J",
+    "description":"",
+    "image":"./portfolio/launching_soon.jpg",
+    "bio":"Short Bio",
+    "contactUsMessage":"Have a question or an estimate request? Contact us! Use the form below and we will get back to you as soon as possible!",
+    "email": "Email: example@gmail.com",
+    "phone": "Office: (984) 305-9792",
+    "github":"https://github.com/",
+    "project":"https://github.com/",
+    "address":{
+      "street":"",
+      "city":"Fremont",
+      "state":"NC",
+      "zip": ""
+    },
+    "website": "http://www.example.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://example.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://example.com/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://example.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://example.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://example.com/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Example 1",
+        "category":"Example 1",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 2",
+        "category":"Example 2",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 3",
+        "category":"Example 3",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 4",
+        "category":"Example 4",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 5",
+        "category":"Example 5",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 6",
+        "category":"Example 6",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 7",
+        "category":"Example 7",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 8",
+        "category":"Example 8",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 9",
+        "category":"Example 9",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 10",
+        "category":"Example 10",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 11",
+        "category":"Example 11",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      },
+      {
+        "title":"Example 12",
+        "category":"Example 12",
+        "image":"launching_soon.jpg",
+        "url":"https://www.example.com"
+      }
+    ]
+  }
+}
