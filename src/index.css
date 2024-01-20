@@ -1,0 +1,21 @@
+.background-image {
+    position: relative;
+    width: 100%;
+    height: 300px; /* Adjust the height as needed */
+    display: flex;
+    align-items: center; /* Center the content vertically */
+  
+    /* Add this for the dimming effect */
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, .64); /* Adjust the alpha value for the desired dimness */
+    }
+  
+    /* Add more styles if needed */
+  }
+  
