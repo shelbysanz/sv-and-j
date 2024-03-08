@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import logo from '../assets/logo.jpeg'
+import logo from '../assets/sv&j-logo.png'
 
 class About extends Component {
   render() {
@@ -30,7 +30,7 @@ class About extends Component {
             <div className="nine columns main-col">
               <h2>About our Services</h2>
 
-              <p>{bio}</p>
+              <h5>{bio}</h5>
               <div className="row">
                 {/* <div className="columns contact-details">
                   <h2>Contact Details</h2>

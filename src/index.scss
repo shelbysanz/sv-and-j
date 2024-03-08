@@ -1,3 +1,7 @@
+$primary_color: #04ABFB;
+$light_color: #04ABFB;
+$dark_color: #03426E;
+
 .background-image {
     position: relative;
     width: 100%;
@@ -18,4 +22,7 @@
   
     /* Add more styles if needed */
   }
-  
+
+  .nav-bar {
+    background-color: $light_color;
+  }

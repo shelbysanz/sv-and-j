@@ -156,7 +156,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #0957d6; }
+ul#nav li.current a { color: #03426E; }
 
 
 /* ------------------------------------------------------------------ */
@@ -164,7 +164,7 @@ ul#nav li.current a { color: #0957d6; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #0957d6;
+   background: #04ABFB;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -948,8 +948,8 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #1abc9c !important;
+   background-color: #04ABFB !important;
 }
 .github-btn{
-   background-color: #0957d6 !important;
+   background-color: #04ABFB !important;
 }

@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Fade, Slide } from "react-reveal";
 import axios from "axios";
 import Swal from 'sweetalert2'
+import '../index.scss';
 
 class Contact extends Component {
   constructor(props) {
@@ -24,14 +25,14 @@ class Contact extends Component {
     // Log the form data to the console for testing
     console.log(this.state);
     try {
-      axios.post('https://8txdb2s6s3.execute-api.us-east-1.amazonaws.com/dev/send-email', this.state)
+      axios.post('https://wqc7s8xca1.execute-api.us-east-1.amazonaws.com/prod/send-email', this.state)
       .then(response => {
         if (response.status === 200) {
           Swal.fire({
             title: "Success",
             icon: "success",
             text: "We received your request! We'll get back in touch soon! Thank you!",
-            confirmButtonColor: "#0957d6",
+            confirmButtonColor: "#04ABFB",
           }).then(confirmed => {
             window.location.reload();
           });
@@ -43,7 +44,7 @@ class Contact extends Component {
         title: "Error",
         text: "An error occurred while attempting to send your request! We are looking into this! Try giving us a call!",
         icon: "error",
-        confirmButtonColor: "#0957d6",
+        confirmButtonColor: "#04ABFB",
       });
      });
     } catch (e) {
@@ -52,7 +53,7 @@ class Contact extends Component {
         title: "Error Sending Email",
         text: "An error occurred while attempting to send your request! We are looking into this! Try giving us a call!",
         icon: "error",
-        confirmButtonColor: "#0957d6",
+        confirmButtonColor: "#04ABFB",
       });
     }
   };
