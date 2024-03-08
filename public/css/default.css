@@ -658,11 +658,12 @@ properly.
 	   margin: 0 auto;
       padding: 0;
 	}
-   .column, .columns {
-	   width: auto !important;
-	   float: none;
-	   margin-left: 0;
-	   margin-right: 0;
+   .column:not(.portfolio-item), 
+   .columns:not(.portfolio-item) {
+      width: auto !important;
+      float: none;
+      margin-left: 0;
+      margin-right: 0;
       padding: 0 30px;
    }
    .row .row { width: auto; max-width: none; margin: 0 -30px; }
