@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sv-and-j/static/css/main.3ca33571.chunk.css",
-    "main.js": "/sv-and-j/static/js/main.4215e677.chunk.js",
-    "main.js.map": "/sv-and-j/static/js/main.4215e677.chunk.js.map",
-    "runtime-main.js": "/sv-and-j/static/js/runtime-main.d95eca5f.js",
-    "runtime-main.js.map": "/sv-and-j/static/js/runtime-main.d95eca5f.js.map",
-    "static/js/2.30eaa1b4.chunk.js": "/sv-and-j/static/js/2.30eaa1b4.chunk.js",
-    "static/js/2.30eaa1b4.chunk.js.map": "/sv-and-j/static/js/2.30eaa1b4.chunk.js.map",
-    "static/js/3.455246a1.chunk.js": "/sv-and-j/static/js/3.455246a1.chunk.js",
-    "static/js/3.455246a1.chunk.js.map": "/sv-and-j/static/js/3.455246a1.chunk.js.map",
-    "index.html": "/sv-and-j/index.html",
-    "static/css/main.3ca33571.chunk.css.map": "/sv-and-j/static/css/main.3ca33571.chunk.css.map",
-    "static/js/2.30eaa1b4.chunk.js.LICENSE.txt": "/sv-and-j/static/js/2.30eaa1b4.chunk.js.LICENSE.txt",
-    "static/media/cleaning_image.174222fc.jpeg": "/sv-and-j/static/media/cleaning_image.174222fc.jpeg",
-    "static/media/sv&j-logo.2226d54d.png": "/sv-and-j/static/media/sv&j-logo.2226d54d.png"
+    "main.css": "./static/css/main.3ca33571.chunk.css",
+    "main.js": "./static/js/main.4215e677.chunk.js",
+    "main.js.map": "./static/js/main.4215e677.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d95eca5f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d95eca5f.js.map",
+    "static/js/2.30eaa1b4.chunk.js": "./static/js/2.30eaa1b4.chunk.js",
+    "static/js/2.30eaa1b4.chunk.js.map": "./static/js/2.30eaa1b4.chunk.js.map",
+    "static/js/3.455246a1.chunk.js": "./static/js/3.455246a1.chunk.js",
+    "static/js/3.455246a1.chunk.js.map": "./static/js/3.455246a1.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3ca33571.chunk.css.map": "./static/css/main.3ca33571.chunk.css.map",
+    "static/js/2.30eaa1b4.chunk.js.LICENSE.txt": "./static/js/2.30eaa1b4.chunk.js.LICENSE.txt",
+    "static/media/cleaning_image.174222fc.jpeg": "./static/media/cleaning_image.174222fc.jpeg",
+    "static/media/sv&j-logo.2226d54d.png": "./static/media/sv&j-logo.2226d54d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d95eca5f.js",
