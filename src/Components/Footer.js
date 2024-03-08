@@ -25,7 +25,7 @@ class Footer extends Component {
         <div className="row">
           <Fade bottom>
             <div className="twelve columns">
-              <ul className="social-links">
+              {/* <ul className="social-links">
                 {networks}
                 <li key={'tiktok'}>
                   <a href="https://www.tiktok.com/@chivis11792?_t=8hwJXrjFv3L&_r=1">
@@ -34,11 +34,11 @@ class Footer extends Component {
                   </svg>
                   </a>
                 </li>
-              </ul>
+              </ul> */}
 
 
               <ul className="copyright">
-                <li>&copy; Copyright 2023 Shelby Rheyn</li>
+                <li>&copy; Copyright 2024 Shelby Rheyn</li>
                 <li>
                   Design by{" "}
                   <a title="Github" href="https://github.com/shelbyrheyn?tab=repositories">
