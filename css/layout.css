@@ -938,14 +938,14 @@ footer .social-links li:first-child { margin-left: 0; }
 
 
 .social .btn:first-child{
-   margin-right: 30px;
+   margin: 12px;
 }
 .social .btn{
    padding-left: 30px;
    padding-right: 30px; 
 }
 .social .btn i{
-   margin-right: 15px;
+   margin: 4px;
 }
 .project-btn{
    background-color: #04ABFB !important;
@@ -953,3 +953,11 @@ footer .social-links li:first-child { margin-left: 0; }
 .github-btn{
    background-color: #04ABFB !important;
 }
+
+.social-home {
+   .btn {
+      margin: 4px;
+      i{
+         margin: 4px;
+      }
+   }
