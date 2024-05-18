@@ -1,0 +1,2 @@
+.background-image{position:relative;width:100%;height:300px;display:flex;align-items:center}.background-image:before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.25)}.nav-bar{background-color:#04abfb}.google-drive-iframe{width:100%;height:100vh;border:0}@media only screen and (max-width:450px){.google-drive-iframe{width:100%;height:75vh;border:0;transform:scale(1.75);transform-origin:0 0;padding-bottom:30vh}}
+/*# sourceMappingURL=main.1479ed91.chunk.css.map */
