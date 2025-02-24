@@ -12,11 +12,11 @@ class Footer extends Component {
             <div className="twelve columns">
 
               <ul className="copyright">
-                <li>&copy; Copyright 2024 Shelby Rheyn</li>
+                <li>&copy; Copyright 2025 Shelby Sanchez</li>
                 <li>
                   Design by{" "}
                   <a title="Github" href="https://github.com/shelbysanz?tab=repositories">
-                    Shelby Rheyn
+                    Shelby Sanchez
                   </a>
                 </li>
               </ul>
