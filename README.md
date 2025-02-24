@@ -1,10 +1,10 @@
 # SV&J Website V1
 
 ## About
--- about section coming soon
+Cleaning services website. Displays multiple sections, and images. Takes user input for a contact form.
 
 ## Description
--- description section coming soon
+The company website for sv and j cleaning services.
 
 ## Run Project
 #### 1. Clone the project
